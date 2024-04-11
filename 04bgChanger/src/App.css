@@ -1,0 +1,13 @@
+/* App.css */
+
+.parent {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.child {
+  flex: 1;
+  background-color: #f0f0f0; /* Just for visualization */
+  border: 1px solid #ccc; /* Just for visualization */
+}
